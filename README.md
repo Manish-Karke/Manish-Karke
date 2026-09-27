@@ -40,7 +40,7 @@ class ManishKarki {
         "Fastify",
         "PostgreSQL",
         "Prisma",
-        "Django"
+        
     ];
 
     architecture = [
