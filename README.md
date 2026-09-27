@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manish%20Karki&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=React%20Native%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlignY=58&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=23\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&random=false\&width=750\&lines=📱+React+Native+%7C+Expo+%7C+TypeScript;🏗️+Clean+Architecture+%7C+Offline-First+Systems;🔗+GraphQL+%7C+Apollo+Client+%7C+Django;⚙️+Node.js+%7C+Fastify+%7C+PostgreSQL;🧠+Building+systems+that+work+offline+and+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=23\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&random=false\&width=750\&lines=📱+React+Native+%7C+Expo+%7C+TypeScript;🏗️+Clean+Architecture+%7C+Offline-First+Systems;🔗+GraphQL+%7C+Apollo+Client+%7C+;⚙️+Node.js+%7C+Fastify+%7C+PostgreSQL;🧠+Building+systems+that+work+offline+and+at+scale)](https://git.io/typing-svg)
 
 <br/>
 
@@ -82,7 +82,7 @@ Currently, I’m expanding deeper into **backend engineering** with Node.js, Fas
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ 
 </p>
 
 ###  Databases
