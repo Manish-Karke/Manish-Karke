@@ -15,6 +15,16 @@
 
 ## 👨‍💻 About Me
 
+
+
+I’m a software engineer focused on building **mobile and backend systems with TypeScript**.
+
+I have hands-on experience working on a production **POS system**, where I worked primarily with **React Native, Expo, GraphQL, Apollo Client, and WatermelonDB**.
+
+A major area of my work has been designing **offline-first data flows**, local database models, synchronization with the backend, and keeping business logic separated from the UI using a clean architecture approach.
+
+Currently, I’m expanding deeper into **backend engineering** with Node.js, Fastify, PostgreSQL, Prisma, and API design.
+
 ```typescript
 class ManishKarki {
     name = "Manish Karki";
@@ -54,13 +64,6 @@ class ManishKarki {
 }
 ```
 
-I’m a software engineer focused on building **mobile and backend systems with TypeScript**.
-
-I have hands-on experience working on a production **POS system**, where I worked primarily with **React Native, Expo, GraphQL, Apollo Client, and WatermelonDB**.
-
-A major area of my work has been designing **offline-first data flows**, local database models, synchronization with the backend, and keeping business logic separated from the UI using a clean architecture approach.
-
-Currently, I’m expanding deeper into **backend engineering** with Node.js, Fastify, PostgreSQL, Prisma, and API design.
 
 ---
 
